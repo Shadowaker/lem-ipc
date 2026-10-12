@@ -5,7 +5,8 @@
 *.out
 
 # Executables (no extension, common on Linux/Mac)
-# Add your binary names here if needed
+lemipc
+objs/
 
 # Dependency files
 *.d
